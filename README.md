@@ -5,8 +5,11 @@
 😱😱 Terrible events are happening in Ukraine right now, so people need to know the truth. The project contains a certain structure for easy study of information:
 
 🟥 casualties
+
 🟥 soldier's apologies - links to video with russian military prisoners 
+
 🟥 RussiansWarCrimes - media evidence of russian war crimes
+
 🇺🇦 StandWithUkraine -  links for helping to Ukraine
 
 "**RUSSIAN WORSHIP IDI NAHUI**
